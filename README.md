@@ -1,5 +1,5 @@
 ### Who is this random person?  
-I am a Python Programmer with an endless supply of enthusiasm and creativity. I loves to try and solve complex problems and create efficient solutions with the power of Python.
+Why i am a Python Programmer with an endless supply of enthusiasm and creativity. I love to try and solve complex problems and create efficient solutions with the power of Python.
 
 # 💫 About Me:
 🔭 I’m currently working on nothing (shocker)<br>🌱 I’m currently learning MORE python.<br>⚡ Fun fact: My code only works on my computer.
